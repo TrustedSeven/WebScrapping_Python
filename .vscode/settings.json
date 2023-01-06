@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "python.analysis.extraPaths": [
+    "./yolov7-main"
+  ]
+}
